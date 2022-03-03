@@ -323,7 +323,7 @@ class AppStore extends Component {
           <h1>App Store</h1>
           <div className="search">
             <input
-              type="text"
+              type="search"
               placeholder="Search"
               className="input-size"
               onChange={this.onChangeList}
