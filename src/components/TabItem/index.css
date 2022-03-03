@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.items {
+  margin-right: 20px;
+}
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+  border-bottom-width: 1px;
+  text-align: center;
+  width: 70px;
+  cursor: pointer;
+}

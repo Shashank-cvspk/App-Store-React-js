@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.app-container {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+  height: 100vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.search {
+  display: flex;
+  flex-direction: row;
+}
+.input-size {
+  width: 300px;
+  background-color: transparent;
+  border-radius: 10px;
+  padding: 10px;
+}
+.icon-size {
+  height: 50px;
+  width: 50px;
+}
+.List {
+  padding: 0px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+.appList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+}
+.app {
+  margin: auto;
+  width: 50%;
+}
